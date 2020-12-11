@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a full-stack developper with so little time out of work, so I mainly particpate to the <https://www.Camptocamp.org> project.
+
+[![brunobesson's github stats](https://github-readme-stats.vercel.app/api?username=brunobesson&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **brunobesson/brunobesson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
