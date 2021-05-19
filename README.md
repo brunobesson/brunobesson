@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[https://www.eci38.fr/wp-content/uploads/2019/08/La_patate_de_l_Espace_RI45.pdf](ECI)
+https://www.eci38.fr/wp-content/uploads/2019/08/La_patate_de_l_Espace_RI45.pdf
